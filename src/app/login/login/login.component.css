@@ -1,0 +1,108 @@
+
+
+.login-container {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color:darkgreen;
+    font-size: x-large;
+   
+}
+
+.form-group {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.select{
+    width: 200%;
+    height: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
+button {
+    width: 40%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+h3{
+    text-align: center;
+    margin-top: 5%;
+    font-size: xx-large;
+    font-style:initial ;
+    color: darkred;
+
+    
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+    width: 50%;
+    padding: 10px;
+    border: 5px;
+    background-color: rgba(0,0,0,.5);
+}
+ li{
+   margin: auto;
+   text-align:center;
+   padding-top: 3%;
+}
+.input-container {
+    position: relative;
+    display: inline-block; /* or inline-flex, depending on your layout */
+  }
+  
+  .input-container i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  /* Adjust the left position as needed */
+    color: #aaa; /* Adjust the color of the icon */
+    cursor: pointer;
+    color:darkgreen;
+  }
+  
+  .input-container input {
+    padding-left: 30px;
+    
+  }
+
+ .input-card{
+    width: 100%;
+  }
+  .mat-form-field{
+    background-color: antiquewhite;
+  }
