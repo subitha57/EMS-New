@@ -1,0 +1,16 @@
+.mat-icon {
+    font-size: 2rem; /* Customize the icon size */
+    color: blue; /* Customize the icon color */
+}
+.delete-icon {
+    font-size: 2rem; /* Customize the icon size */
+    color: red; /* Customize the icon color */
+}
+mat-button-toggle{
+    background-color: green;
+    color: white;
+   align-items: center;
+}
+span{
+    color:red;
+}
